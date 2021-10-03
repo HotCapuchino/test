@@ -1,0 +1,1 @@
+Тестовый репозиторий для задания https://git.hostfl.ru/alshabalin/first/src/master/getting-started.md
